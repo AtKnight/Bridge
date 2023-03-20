@@ -1,0 +1,4 @@
+Vergelijk de uitvoer in deze directory met de uitvoer van de versie in een directory hoger.
+
+Als aantalSlagen = 3 dan wordt in deze directory in elke hand het juiste aantal kaarten getoond, maar niet de juiste slagen.
+Bovendien worden er slechts twee slagen getoond.

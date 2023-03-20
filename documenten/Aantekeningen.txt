@@ -1,0 +1,144 @@
+Kleur bekennen moet.
+Troeven mag als men de kleur niet heeft.
+
+----------------------------------------------------------------------
+
+De eerst 6 slagen leveren  geen punten op.
+
+      	  	 7e slag  	 volgende slagen
+SA    		 40 punten	 	  30 punten
+Schoppen/Harten	 30 punten		  30 punten
+Ruiten/Klaver	 20 punten		  20 punten
+
+
+Manche wordt behaald als men tenminste 100 punten heeft behaald
+Wordt dus behaald door:
+      3 SA
+      4 Schoppen of Harten
+      5 Ruiten of Klaveren
+
+----------------------------------------------------------------------
+
+Aas, Heer, Vrouw, Boer = 4, 3, 2, 1 punt (totaal 10 punten per kleur)
+Tel punten per cluster (== een kleur)
+
+Lange kleur: kleur met de meeste kaarten
+
+Er is een sprake van een fit indien je samen tenminste 8 kaarten in een kleur hebt.
+
+Een kleur is geschikt als troef als je samen met je partner tenminste 8 kaarten hebt.
+Als je geen fit hebt kun je beter 1 SA spelen.
+
+Manche heeft kans van slagen vanaf 25 gezamenlijke plaatjespunten
+
+----------------------------------------------------------------------
+
+Biedafspraken volgens Standaard Hoog.
+Doel -het vinden van een fit
+     -bepalen of een manch haalbaar is.
+     
+Opening:
+    -minder dan 12 punten: pas
+    -je biedt de langste kleur als eerste
+    -bij twee gelijke lanste kleuren:
+    	 +bij twee 5 kaarten --> neem de hoogste kleur
+	 +Bij twee 4 kaarten --> neem de laagste kleur
+    -bij 15, 16 of 17 punten en geen uitgesproken langste kleur
+     (4333, 4432,  5332) --> 1SA
+    -1H of 1S garandaart een 5 kaart
+    (N.B. eerst 1 ruiten bieden en vervolgens 1 schoppen betekent dat je tenminste 6 ruiten hebt.)
+
+    -18-19 punten --> 2SA
+
+    preemptief bieden: als je veel kaarten in een kleur hebt, maar minder dan 12 punten
+       -je biedt 2S als je 6 Schoppen hebt
+       -je biedt 3S als je 7 Schoppen hebt en hooguit 10 punten
+       -je biedt 4H als je 8 Harten hebt
+
+    doublet/double als je denkt dat je tegenstander het bod niet gaat halen.
+         Dit is alleen verstandig als je veel troeven hebt.
+    redoublet je bevestigt het gedoubleerde bod.
+
+
+Na een 1SA opening:
+   de partner van de 1SA-bieder is de captain en gaat op zoek naar een 3SA of hij past.
+   Als de partner minder dan 8 punten heeft is een manche niet mogelijk
+   (de som van punten is minder dan 25). Hij past dus.
+
+   Jacobytransfer:
+	Als je een lange hartenkleur hebt dan biedt je 2 ruiten.
+	Je partner biedt dan 2 harten.
+	Als je een lange schoppenkleur hebt dan bied je 2 harten.
+	Je partner biedt dan 2 schoppen.
+	
+   
+Bijbod; onderstaande geldt alleen na een kleuropening; niet na een SA-opening
+    Men gaat opzoek naar een goede kleur en wellicht een manche.
+    -pas bij minder dan 5 punten
+    -6-9 punten:
+    	+opening 1H en je hebt tenminste drie harten --> 2H  (er nl. een fit)
+	 Dit is een steunbod: een bod in dezelfde kleur maar op een hoger niveau.
+	+opening 1S en je hebt tenminste drie schoppen --> 2S  (er nl. een fit)
+	+opening 1S maar je hebt geen fir, biedt dan 1SA
+    -10-11 punten: (totaal dus tenminste 12 + 10+ >= 22 punten)
+         +steunbod op drie niveau indien de opening harten of schoppen was
+    	  Opening 1H en heb je een driekaart harten en vierkaart schoppen biedt dan 1S
+	  en later wellicht 4H.
+	  Heb je slechts een driekaart harten biedt dan 2H.
+	  Je partner kan als hij genoeg punten heeft besluiten tot een manche
+	  Idem als harten en schoppen verwisseld zijn.
+	 +bod zonder steun als opening was 1 harten/schoppen
+	  en je hebt tenminste een driekaart in harten/schoppen --> 1SA
+     ->= 12 punten
+     	 + steunbod op 4 niveau
+
+    -samen(!) 25 punten en de opening was 1H/S --> 4H/S
+
+    -geen fit, dan nieuwe kleur bieden vanaf 10 punten 
+    	 -langste kleur eerst
+	 -vijfkaart de hoogste kleur (H of S)
+	 -vierkaart de laagste kleur
+
+    
+
+
+----------------------------------------------------------------------
+N.B. eers
+       
+
+----------------------------------------------------------------------
+
+Speeltechniek:
+    -Azen als eerste spelen is niet verstandig.
+    -Het kan verstandig zijn de eerste slag(en) weg te geven en
+     daardoor de overige slagen te halen
+    -Speel eerst een hoge maar overtrefbare kaart.
+     Deze kan tot een slag leiden. Dit heet snijden.
+    -Eerst troeven trekken.
+
+Voor het paar dat naar down-spelen (het tegenspel)streeft:
+     -serie meerdere honneurs (plaatjes) van een kleur: speel de hoogste
+      Dit belooft een lager honneur aan de partner
+     -een honneur: speel een kleintje
+      Dit belooft een honneur
+     -geen honneurs en veel kaarten: speel de hoogste
+
+Tweede hand antwoordt laag.
+Derde hand antwoordt hoog, om als de vierde er overheen gaat een plaatsje van
+zijun maat vrij te spelen.
+ 
+
+
+Gevolgd t/m les 10 (deels)
+
+Afspeeltechniek:
+    -speel een honneur aan de korte kant.
+     Daarna kan je dummy in dezelfde kleur aan bod brengen.
+
+
+Entree is een kaart waarmee je waarmee je van de ene kant naar de
+andere kant kan overstegen c.q. aanslag brenge.
+
+
+
+

@@ -1,0 +1,590 @@
+windrichting:                Noord
+Schoppen    B 10  9  6 
+Harten      7  5 
+Ruiten      K  V  B  8  4 
+Klaveren    K  V 
+regelmatige verdeling:       False
+aantal punten voor honneurs: 12
+max kleur en lengte:         ('Ruiten', 5)
+
+
+ ---------------------- 
+
+
+windrichting:                Noord
+Schoppen   
+Harten      2 
+Ruiten      V 
+Klaveren    6 
+regelmatige verdeling:       False
+aantal punten voor honneurs: 2
+max kleur en lengte:         ('Harten', 1)
+
+windrichting:                Oost
+Schoppen   
+Harten      7 
+Ruiten     
+Klaveren    V  7 
+regelmatige verdeling:       False
+aantal punten voor honneurs: 2
+max kleur en lengte:         ('Klaveren', 2)
+
+windrichting:                Zuid
+Schoppen   
+Harten      K  9 
+Ruiten     
+Klaveren    B 
+regelmatige verdeling:       False
+aantal punten voor honneurs: 4
+max kleur en lengte:         ('Harten', 2)
+
+windrichting:                West
+Schoppen   
+Harten     
+Ruiten     
+Klaveren    8  4  3 
+regelmatige verdeling:       False
+aantal punten voor honneurs: 0
+max kleur en lengte:         ('Klaveren', 3)
+
+start zoeken
+entree diepte = 3 speler = Oost
+entree diepte = 3 speler = Zuid
+entree diepte = 3 speler = West
+entree diepte = 3 speler = Noord
+entree diepte = 2 speler = Zuid
+entree diepte = 2 speler = West
+entree diepte = 2 speler = Noord
+entree diepte = 2 speler = Oost
+entree diepte = 1 speler = Zuid
+entree diepte = 1 speler = West
+entree diepte = 1 speler = Noord
+entree diepte = 1 speler = Oost
+entree diepte = 0 speler = Zuid
+Klaar met diepte: 0 waarin speler Oost  heeft neergelegd Klaveren 7
+Klaar met diepte: 1 waarin speler Noord heeft neergelegd Klaveren 6
+Klaar met diepte: 1 waarin speler West  heeft neergelegd Klaveren 3
+Klaar met diepte: 1 waarin speler Zuid  heeft neergelegd Klaveren B
+Klaar met diepte: 1 waarin speler Oost  heeft neergelegd Klaveren V
+entree diepte = 0 speler = Zuid
+Klaar met diepte: 0 waarin speler Oost  heeft neergelegd Klaveren 7
+Klaar met diepte: 2 waarin speler Noord heeft neergelegd Ruiten V
+entree diepte = 2 speler = Oost
+entree diepte = 1 speler = Zuid
+entree diepte = 1 speler = West
+entree diepte = 1 speler = Noord
+entree diepte = 1 speler = Oost
+entree diepte = 0 speler = Zuid
+Klaar met diepte: 0 waarin speler Oost  heeft neergelegd Klaveren 7
+Klaar met diepte: 1 waarin speler Noord heeft neergelegd Ruiten V
+Klaar met diepte: 1 waarin speler West  heeft neergelegd Klaveren 3
+Klaar met diepte: 1 waarin speler Zuid  heeft neergelegd Klaveren B
+Klaar met diepte: 1 waarin speler Oost  heeft neergelegd Klaveren V
+entree diepte = 0 speler = Zuid
+Klaar met diepte: 2 waarin speler Noord heeft neergelegd Klaveren 6
+Klaar met diepte: 2 waarin speler West  heeft neergelegd Klaveren 4
+entree diepte = 2 speler = Noord
+entree diepte = 2 speler = Oost
+entree diepte = 1 speler = Zuid
+entree diepte = 1 speler = West
+entree diepte = 1 speler = Noord
+entree diepte = 1 speler = Oost
+entree diepte = 0 speler = Zuid
+Klaar met diepte: 0 waarin speler Oost  heeft neergelegd Klaveren 7
+Klaar met diepte: 1 waarin speler West  heeft neergelegd Klaveren 4
+Klaar met diepte: 1 waarin speler Oost  heeft neergelegd Klaveren V
+entree diepte = 0 speler = Zuid
+Klaar met diepte: 0 waarin speler Oost  heeft neergelegd Klaveren 7
+Klaar met diepte: 2 waarin speler West  heeft neergelegd Klaveren 3
+Klaar met diepte: 2 waarin speler Zuid  heeft neergelegd Harten 9
+entree diepte = 2 speler = West
+entree diepte = 2 speler = Noord
+entree diepte = 2 speler = Oost
+entree diepte = 1 speler = Oost
+entree diepte = 1 speler = Zuid
+entree diepte = 1 speler = West
+entree diepte = 1 speler = Noord
+entree diepte = 0 speler = Oost
+Klaar met diepte: 0 waarin speler Noord heeft neergelegd Ruiten V
+Klaar met diepte: 1 waarin speler Zuid  heeft neergelegd Harten 9
+Klaar met diepte: 2 waarin speler Noord heeft neergelegd Klaveren 6
+Klaar met diepte: 2 waarin speler Zuid  heeft neergelegd Klaveren B
+Klaar met diepte: 2 waarin speler Noord heeft neergelegd Harten 2
+Klaar met diepte: 3 waarin speler West  heeft neergelegd Klaveren 8
+entree diepte = 3 speler = Noord
+entree diepte = 2 speler = Zuid
+entree diepte = 2 speler = West
+entree diepte = 2 speler = Noord
+entree diepte = 2 speler = Oost
+entree diepte = 1 speler = Zuid
+entree diepte = 1 speler = West
+entree diepte = 1 speler = Noord
+entree diepte = 1 speler = Oost
+entree diepte = 0 speler = Zuid
+Klaar met diepte: 0 waarin speler Oost  heeft neergelegd Klaveren 7
+Klaar met diepte: 1 waarin speler West  heeft neergelegd Klaveren 3
+Klaar met diepte: 1 waarin speler Oost  heeft neergelegd Klaveren V
+entree diepte = 0 speler = Zuid
+Klaar met diepte: 0 waarin speler Oost  heeft neergelegd Klaveren 7
+Klaar met diepte: 2 waarin speler West  heeft neergelegd Klaveren 8
+entree diepte = 2 speler = Noord
+entree diepte = 2 speler = Oost
+entree diepte = 1 speler = Zuid
+entree diepte = 1 speler = West
+entree diepte = 1 speler = Noord
+entree diepte = 1 speler = Oost
+entree diepte = 0 speler = Zuid
+Klaar met diepte: 0 waarin speler Oost  heeft neergelegd Klaveren 7
+Klaar met diepte: 1 waarin speler West  heeft neergelegd Klaveren 8
+Klaar met diepte: 1 waarin speler Oost  heeft neergelegd Klaveren V
+entree diepte = 0 speler = Zuid
+Klaar met diepte: 0 waarin speler Oost  heeft neergelegd Klaveren 7
+Klaar met diepte: 2 waarin speler West  heeft neergelegd Klaveren 3
+Klaar met diepte: 3 waarin speler West  heeft neergelegd Klaveren 4
+entree diepte = 3 speler = Noord
+entree diepte = 2 speler = Zuid
+entree diepte = 2 speler = West
+entree diepte = 2 speler = Noord
+entree diepte = 2 speler = Oost
+entree diepte = 1 speler = Zuid
+entree diepte = 1 speler = West
+entree diepte = 1 speler = Noord
+entree diepte = 1 speler = Oost
+entree diepte = 0 speler = Zuid
+Klaar met diepte: 0 waarin speler Oost  heeft neergelegd Klaveren 7
+Klaar met diepte: 1 waarin speler West  heeft neergelegd Klaveren 4
+Klaar met diepte: 1 waarin speler Oost  heeft neergelegd Klaveren V
+entree diepte = 0 speler = Zuid
+Klaar met diepte: 0 waarin speler Oost  heeft neergelegd Klaveren 7
+Klaar met diepte: 2 waarin speler West  heeft neergelegd Klaveren 8
+entree diepte = 2 speler = Noord
+entree diepte = 2 speler = Oost
+entree diepte = 1 speler = Zuid
+entree diepte = 1 speler = West
+entree diepte = 1 speler = Noord
+entree diepte = 1 speler = Oost
+entree diepte = 0 speler = Zuid
+Klaar met diepte: 0 waarin speler Oost  heeft neergelegd Klaveren 7
+Klaar met diepte: 1 waarin speler West  heeft neergelegd Klaveren 8
+Klaar met diepte: 1 waarin speler Oost  heeft neergelegd Klaveren V
+entree diepte = 0 speler = Zuid
+Klaar met diepte: 0 waarin speler Oost  heeft neergelegd Klaveren 7
+Klaar met diepte: 2 waarin speler West  heeft neergelegd Klaveren 4
+Klaar met diepte: 3 waarin speler West  heeft neergelegd Klaveren 3
+Klaar met diepte: 3 waarin speler Zuid  heeft neergelegd Harten K
+entree diepte = 3 speler = West
+entree diepte = 3 speler = Noord
+entree diepte = 2 speler = Zuid
+entree diepte = 2 speler = West
+entree diepte = 2 speler = Noord
+entree diepte = 2 speler = Oost
+entree diepte = 1 speler = Zuid
+entree diepte = 1 speler = West
+entree diepte = 1 speler = Noord
+entree diepte = 1 speler = Oost
+entree diepte = 0 speler = Zuid
+Klaar met diepte: 0 waarin speler Oost  heeft neergelegd Klaveren 7
+Klaar met diepte: 1 waarin speler Noord heeft neergelegd Klaveren 6
+Klaar met diepte: 1 waarin speler West  heeft neergelegd Klaveren 3
+Klaar met diepte: 1 waarin speler Zuid  heeft neergelegd Klaveren B
+Klaar met diepte: 1 waarin speler Oost  heeft neergelegd Klaveren V
+entree diepte = 0 speler = Zuid
+Klaar met diepte: 2 waarin speler Noord heeft neergelegd Ruiten V
+entree diepte = 2 speler = Oost
+entree diepte = 1 speler = Zuid
+entree diepte = 1 speler = West
+entree diepte = 1 speler = Noord
+entree diepte = 1 speler = Oost
+entree diepte = 0 speler = Zuid
+Klaar met diepte: 0 waarin speler Oost  heeft neergelegd Klaveren 7
+Klaar met diepte: 1 waarin speler Noord heeft neergelegd Ruiten V
+Klaar met diepte: 1 waarin speler West  heeft neergelegd Klaveren 3
+Klaar met diepte: 1 waarin speler Zuid  heeft neergelegd Klaveren B
+Klaar met diepte: 1 waarin speler Oost  heeft neergelegd Klaveren V
+entree diepte = 0 speler = Zuid
+Klaar met diepte: 2 waarin speler Noord heeft neergelegd Klaveren 6
+Klaar met diepte: 2 waarin speler Zuid  heeft neergelegd Harten K
+entree diepte = 2 speler = West
+entree diepte = 2 speler = Noord
+entree diepte = 2 speler = Oost
+entree diepte = 1 speler = Oost
+entree diepte = 1 speler = Zuid
+entree diepte = 1 speler = West
+entree diepte = 1 speler = Noord
+entree diepte = 0 speler = Oost
+Klaar met diepte: 0 waarin speler Noord heeft neergelegd Ruiten V
+Klaar met diepte: 1 waarin speler Zuid  heeft neergelegd Harten K
+Klaar met diepte: 2 waarin speler Noord heeft neergelegd Klaveren 6
+Klaar met diepte: 2 waarin speler Zuid  heeft neergelegd Klaveren B
+Klaar met diepte: 2 waarin speler Noord heeft neergelegd Harten 2
+Klaar met diepte: 3 waarin speler Zuid  heeft neergelegd Harten 9
+Klaar met diepte: 3 waarin speler Oost  heeft neergelegd Harten 7
+entree diepte = 3 speler = Zuid
+entree diepte = 3 speler = West
+entree diepte = 3 speler = Noord
+entree diepte = 2 speler = Oost
+entree diepte = 2 speler = Zuid
+entree diepte = 2 speler = West
+entree diepte = 2 speler = Noord
+entree diepte = 1 speler = Zuid
+entree diepte = 1 speler = West
+entree diepte = 1 speler = Noord
+entree diepte = 1 speler = Oost
+entree diepte = 0 speler = Zuid
+Klaar met diepte: 0 waarin speler Oost  heeft neergelegd Klaveren 7
+Klaar met diepte: 1 waarin speler Noord heeft neergelegd Ruiten V
+Klaar met diepte: 1 waarin speler West  heeft neergelegd Klaveren 3
+Klaar met diepte: 1 waarin speler Zuid  heeft neergelegd Harten 9
+Klaar met diepte: 1 waarin speler Noord heeft neergelegd Harten 2
+Klaar met diepte: 2 waarin speler West  heeft neergelegd Klaveren 4
+entree diepte = 2 speler = Noord
+entree diepte = 1 speler = Zuid
+entree diepte = 1 speler = West
+entree diepte = 1 speler = Noord
+entree diepte = 1 speler = Oost
+entree diepte = 0 speler = Zuid
+Klaar met diepte: 0 waarin speler Oost  heeft neergelegd Klaveren 7
+Klaar met diepte: 1 waarin speler West  heeft neergelegd Klaveren 4
+Klaar met diepte: 2 waarin speler West  heeft neergelegd Klaveren 3
+Klaar met diepte: 2 waarin speler Zuid  heeft neergelegd Harten K
+entree diepte = 2 speler = West
+entree diepte = 2 speler = Noord
+entree diepte = 1 speler = Zuid
+entree diepte = 1 speler = West
+entree diepte = 1 speler = Noord
+entree diepte = 1 speler = Oost
+entree diepte = 0 speler = Zuid
+Klaar met diepte: 1 waarin speler Noord heeft neergelegd Ruiten V
+Klaar met diepte: 1 waarin speler Zuid  heeft neergelegd Harten K
+Klaar met diepte: 1 waarin speler Noord heeft neergelegd Harten 2
+Klaar met diepte: 2 waarin speler Zuid  heeft neergelegd Harten 9
+Klaar met diepte: 2 waarin speler Oost  heeft neergelegd Harten 7
+entree diepte = 2 speler = Zuid
+entree diepte = 2 speler = West
+entree diepte = 2 speler = Noord
+entree diepte = 1 speler = Oost
+entree diepte = 1 speler = Zuid
+entree diepte = 1 speler = West
+entree diepte = 1 speler = Noord
+entree diepte = 0 speler = Zuid
+Klaar met diepte: 0 waarin speler Noord heeft neergelegd Ruiten V
+Klaar met diepte: 1 waarin speler West  heeft neergelegd Klaveren 3
+Klaar met diepte: 1 waarin speler Zuid  heeft neergelegd Harten 9
+Klaar met diepte: 1 waarin speler Oost  heeft neergelegd Harten 7
+Klaar met diepte: 1 waarin speler Noord heeft neergelegd Harten 2
+entree diepte = 0 speler = Oost
+Klaar met diepte: 0 waarin speler Noord heeft neergelegd Ruiten V
+Klaar met diepte: 2 waarin speler West  heeft neergelegd Klaveren 4
+entree diepte = 2 speler = Noord
+entree diepte = 1 speler = Oost
+entree diepte = 1 speler = Zuid
+entree diepte = 1 speler = West
+entree diepte = 1 speler = Noord
+entree diepte = 0 speler = Zuid
+Klaar met diepte: 1 waarin speler West  heeft neergelegd Klaveren 4
+Klaar met diepte: 1 waarin speler Oost  heeft neergelegd Harten 7
+Klaar met diepte: 2 waarin speler West  heeft neergelegd Klaveren 3
+Klaar met diepte: 2 waarin speler Zuid  heeft neergelegd Harten K
+entree diepte = 2 speler = West
+entree diepte = 2 speler = Noord
+entree diepte = 1 speler = Oost
+entree diepte = 1 speler = Zuid
+entree diepte = 1 speler = West
+entree diepte = 1 speler = Noord
+entree diepte = 0 speler = Zuid
+Klaar met diepte: 0 waarin speler Noord heeft neergelegd Ruiten V
+Klaar met diepte: 1 waarin speler Zuid  heeft neergelegd Harten K
+Klaar met diepte: 1 waarin speler Noord heeft neergelegd Harten 2
+entree diepte = 0 speler = Oost
+Klaar met diepte: 0 waarin speler Noord heeft neergelegd Ruiten V
+Klaar met diepte: 2 waarin speler Zuid  heeft neergelegd Harten 9
+Klaar met diepte: 2 waarin speler Oost  heeft neergelegd Klaveren 7
+Klaar met diepte: 2 waarin speler Noord heeft neergelegd Klaveren 6
+Klaar met diepte: 3 waarin speler West  heeft neergelegd Klaveren 8
+entree diepte = 3 speler = Noord
+entree diepte = 2 speler = Oost
+entree diepte = 2 speler = Zuid
+entree diepte = 2 speler = West
+entree diepte = 2 speler = Noord
+entree diepte = 1 speler = Zuid
+entree diepte = 1 speler = West
+entree diepte = 1 speler = Noord
+entree diepte = 1 speler = Oost
+entree diepte = 0 speler = Zuid
+Klaar met diepte: 0 waarin speler Oost  heeft neergelegd Klaveren 7
+Klaar met diepte: 1 waarin speler West  heeft neergelegd Klaveren 3
+Klaar met diepte: 2 waarin speler West  heeft neergelegd Klaveren 8
+entree diepte = 2 speler = Noord
+entree diepte = 1 speler = Zuid
+entree diepte = 1 speler = West
+entree diepte = 1 speler = Noord
+entree diepte = 1 speler = Oost
+entree diepte = 0 speler = Zuid
+Klaar met diepte: 0 waarin speler Oost  heeft neergelegd Klaveren 7
+Klaar met diepte: 1 waarin speler West  heeft neergelegd Klaveren 8
+Klaar met diepte: 2 waarin speler West  heeft neergelegd Klaveren 3
+Klaar met diepte: 2 waarin speler Oost  heeft neergelegd Harten 7
+entree diepte = 2 speler = Zuid
+entree diepte = 2 speler = West
+entree diepte = 2 speler = Noord
+entree diepte = 1 speler = West
+entree diepte = 1 speler = Noord
+entree diepte = 1 speler = Oost
+entree diepte = 1 speler = Zuid
+entree diepte = 0 speler = West
+Hier
+Oost
+Klaveren V
+Zuid
+Klaveren B
+West
+Klaveren 4
+Noord
+Klaveren 6
+Oost
+Klaveren 7
+Zuid
+Harten K
+West
+Klaveren 8
+Noord
+Harten 2
+West
+Klaveren 3
+Noord
+Ruiten V
+Oost
+Harten 7
+Zuid
+Harten 9
+Klaar met diepte: 0 waarin speler Zuid  heeft neergelegd Harten 9
+Daar
+Klaar met diepte: 1 waarin speler Oost  heeft neergelegd Harten 7
+Hier
+Oost
+Klaveren V
+Zuid
+Klaveren B
+West
+Klaveren 4
+Noord
+Klaveren 6
+Oost
+Klaveren 7
+Zuid
+Harten K
+West
+Klaveren 8
+Noord
+Harten 2
+West
+Klaveren 3
+Noord
+Ruiten V
+Oost
+Harten 7
+Zuid
+Harten 9
+Klaar met diepte: 1 waarin speler Noord heeft neergelegd Ruiten V
+Daar
+Klaar met diepte: 1 waarin speler West  heeft neergelegd Klaveren 3
+Hier
+Oost
+Klaveren V
+Zuid
+Klaveren B
+West
+Klaveren 4
+Noord
+Klaveren 6
+Oost
+Klaveren 7
+Zuid
+Harten K
+West
+Klaveren 8
+Noord
+Harten 2
+West
+Klaveren 3
+Noord
+Ruiten V
+Oost
+Harten 7
+Zuid
+Harten 9
+Klaar met diepte: 1 waarin speler Noord heeft neergelegd Harten 2
+entree diepte = 0 speler = West
+Klaar met diepte: 0 waarin speler Noord heeft neergelegd Ruiten V
+Klaar met diepte: 2 waarin speler West  heeft neergelegd Klaveren 8
+entree diepte = 2 speler = Noord
+entree diepte = 1 speler = Oost
+entree diepte = 1 speler = Zuid
+entree diepte = 1 speler = West
+entree diepte = 1 speler = Noord
+entree diepte = 0 speler = Zuid
+Klaar met diepte: 1 waarin speler West  heeft neergelegd Klaveren 8
+Klaar met diepte: 1 waarin speler Oost  heeft neergelegd Harten 7
+Klaar met diepte: 2 waarin speler West  heeft neergelegd Klaveren 3
+Klaar met diepte: 2 waarin speler Zuid  heeft neergelegd Harten K
+entree diepte = 2 speler = West
+entree diepte = 2 speler = Noord
+entree diepte = 1 speler = West
+entree diepte = 1 speler = Noord
+entree diepte = 1 speler = Oost
+entree diepte = 1 speler = Zuid
+entree diepte = 0 speler = West
+Klaar met diepte: 0 waarin speler Zuid  heeft neergelegd Harten K
+Klaar met diepte: 1 waarin speler Noord heeft neergelegd Ruiten V
+Klaar met diepte: 1 waarin speler Noord heeft neergelegd Harten 2
+entree diepte = 0 speler = West
+Klaar met diepte: 0 waarin speler Noord heeft neergelegd Ruiten V
+Klaar met diepte: 2 waarin speler Zuid  heeft neergelegd Harten 9
+Klaar met diepte: 2 waarin speler Oost  heeft neergelegd Klaveren 7
+Klaar met diepte: 2 waarin speler Noord heeft neergelegd Klaveren 6
+Klaar met diepte: 3 waarin speler West  heeft neergelegd Klaveren 4
+entree diepte = 3 speler = Noord
+entree diepte = 2 speler = Oost
+entree diepte = 2 speler = Zuid
+entree diepte = 2 speler = West
+entree diepte = 2 speler = Noord
+entree diepte = 1 speler = Zuid
+entree diepte = 1 speler = West
+entree diepte = 1 speler = Noord
+entree diepte = 1 speler = Oost
+entree diepte = 0 speler = Zuid
+Klaar met diepte: 0 waarin speler Oost  heeft neergelegd Klaveren 7
+Klaar met diepte: 1 waarin speler West  heeft neergelegd Klaveren 4
+Klaar met diepte: 2 waarin speler West  heeft neergelegd Klaveren 8
+entree diepte = 2 speler = Noord
+entree diepte = 1 speler = Zuid
+entree diepte = 1 speler = West
+entree diepte = 1 speler = Noord
+entree diepte = 1 speler = Oost
+entree diepte = 0 speler = Zuid
+Klaar met diepte: 0 waarin speler Oost  heeft neergelegd Klaveren 7
+Klaar met diepte: 1 waarin speler West  heeft neergelegd Klaveren 8
+Klaar met diepte: 2 waarin speler West  heeft neergelegd Klaveren 4
+Klaar met diepte: 2 waarin speler Oost  heeft neergelegd Harten 7
+entree diepte = 2 speler = Zuid
+entree diepte = 2 speler = West
+entree diepte = 2 speler = Noord
+entree diepte = 1 speler = West
+entree diepte = 1 speler = Noord
+entree diepte = 1 speler = Oost
+entree diepte = 1 speler = Zuid
+entree diepte = 0 speler = West
+Klaar met diepte: 0 waarin speler Zuid  heeft neergelegd Harten 9
+Klaar met diepte: 1 waarin speler Oost  heeft neergelegd Harten 7
+Klaar met diepte: 1 waarin speler Noord heeft neergelegd Ruiten V
+Klaar met diepte: 1 waarin speler West  heeft neergelegd Klaveren 4
+Klaar met diepte: 1 waarin speler Noord heeft neergelegd Harten 2
+entree diepte = 0 speler = West
+Klaar met diepte: 2 waarin speler West  heeft neergelegd Klaveren 8
+entree diepte = 2 speler = Noord
+entree diepte = 1 speler = Oost
+entree diepte = 1 speler = Zuid
+entree diepte = 1 speler = West
+entree diepte = 1 speler = Noord
+entree diepte = 0 speler = Zuid
+Klaar met diepte: 1 waarin speler West  heeft neergelegd Klaveren 8
+Klaar met diepte: 1 waarin speler Oost  heeft neergelegd Harten 7
+Klaar met diepte: 2 waarin speler West  heeft neergelegd Klaveren 4
+Klaar met diepte: 2 waarin speler Oost  heeft neergelegd Klaveren 7
+Klaar met diepte: 3 waarin speler West  heeft neergelegd Klaveren 3
+Klaar met diepte: 3 waarin speler Zuid  heeft neergelegd Klaveren B
+Klaar met diepte: 3 waarin speler Oost  heeft neergelegd Klaveren V
+entree diepte = 3 speler = Zuid
+entree diepte = 3 speler = West
+entree diepte = 3 speler = Noord
+entree diepte = 2 speler = Zuid
+entree diepte = 2 speler = West
+entree diepte = 2 speler = Noord
+entree diepte = 2 speler = Oost
+entree diepte = 1 speler = Zuid
+entree diepte = 1 speler = West
+entree diepte = 1 speler = Noord
+entree diepte = 1 speler = Oost
+entree diepte = 0 speler = Zuid
+Klaar met diepte: 0 waarin speler Oost  heeft neergelegd Klaveren V
+Klaar met diepte: 1 waarin speler West  heeft neergelegd Klaveren 3
+Klaar met diepte: 1 waarin speler Oost  heeft neergelegd Harten 7
+Klaar met diepte: 2 waarin speler West  heeft neergelegd Klaveren 4
+entree diepte = 2 speler = Noord
+entree diepte = 2 speler = Oost
+entree diepte = 1 speler = Zuid
+entree diepte = 1 speler = West
+entree diepte = 1 speler = Noord
+entree diepte = 1 speler = Oost
+entree diepte = 0 speler = Zuid
+Klaar met diepte: 0 waarin speler Oost  heeft neergelegd Klaveren V
+Klaar met diepte: 1 waarin speler West  heeft neergelegd Klaveren 4
+Klaar met diepte: 1 waarin speler Oost  heeft neergelegd Harten 7
+Klaar met diepte: 2 waarin speler West  heeft neergelegd Klaveren 3
+Klaar met diepte: 3 waarin speler West  heeft neergelegd Klaveren 8
+entree diepte = 3 speler = Noord
+entree diepte = 2 speler = Zuid
+entree diepte = 2 speler = West
+entree diepte = 2 speler = Noord
+entree diepte = 2 speler = Oost
+entree diepte = 1 speler = Zuid
+entree diepte = 1 speler = West
+entree diepte = 1 speler = Noord
+entree diepte = 1 speler = Oost
+entree diepte = 0 speler = Zuid
+Klaar met diepte: 0 waarin speler Oost  heeft neergelegd Klaveren V
+Klaar met diepte: 1 waarin speler West  heeft neergelegd Klaveren 3
+Klaar met diepte: 1 waarin speler Oost  heeft neergelegd Harten 7
+Klaar met diepte: 2 waarin speler West  heeft neergelegd Klaveren 8
+entree diepte = 2 speler = Noord
+entree diepte = 2 speler = Oost
+entree diepte = 1 speler = Zuid
+entree diepte = 1 speler = West
+entree diepte = 1 speler = Noord
+entree diepte = 1 speler = Oost
+entree diepte = 0 speler = Zuid
+Klaar met diepte: 0 waarin speler Oost  heeft neergelegd Klaveren V
+Klaar met diepte: 1 waarin speler West  heeft neergelegd Klaveren 8
+Klaar met diepte: 1 waarin speler Oost  heeft neergelegd Harten 7
+Klaar met diepte: 2 waarin speler West  heeft neergelegd Klaveren 3
+Klaar met diepte: 3 waarin speler West  heeft neergelegd Klaveren 4
+entree diepte = 3 speler = Noord
+entree diepte = 2 speler = Zuid
+entree diepte = 2 speler = West
+entree diepte = 2 speler = Noord
+entree diepte = 2 speler = Oost
+entree diepte = 1 speler = Zuid
+entree diepte = 1 speler = West
+entree diepte = 1 speler = Noord
+entree diepte = 1 speler = Oost
+entree diepte = 0 speler = Zuid
+Klaar met diepte: 0 waarin speler Oost  heeft neergelegd Klaveren V
+Klaar met diepte: 1 waarin speler West  heeft neergelegd Klaveren 4
+Klaar met diepte: 1 waarin speler Oost  heeft neergelegd Harten 7
+Klaar met diepte: 2 waarin speler West  heeft neergelegd Klaveren 8
+entree diepte = 2 speler = Noord
+entree diepte = 2 speler = Oost
+entree diepte = 1 speler = Zuid
+entree diepte = 1 speler = West
+entree diepte = 1 speler = Noord
+entree diepte = 1 speler = Oost
+entree diepte = 0 speler = Zuid
+Klaar met diepte: 0 waarin speler Oost  heeft neergelegd Klaveren V
+Klaar met diepte: 1 waarin speler West  heeft neergelegd Klaveren 8
+Klaar met diepte: 1 waarin speler Oost  heeft neergelegd Harten 7
+Klaar met diepte: 2 waarin speler West  heeft neergelegd Klaveren 4
+Klaar met diepte: 3 waarin speler West  heeft neergelegd Klaveren 3
+Klaar met diepte: 3 waarin speler Oost  heeft neergelegd Klaveren 7
+klaar:
+Best gespeelde kaarten: 
+besteWaarde = -2
+Oost  speelt Klaveren V
+Zuid  speelt Klaveren B
+West  speelt Klaveren 4
+Noord speelt Klaveren 6
+
+Oost  speelt Klaveren 7
+Zuid  speelt Harten K
+West  speelt Klaveren 8
+Noord speelt Ruiten V
+

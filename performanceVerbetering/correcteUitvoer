@@ -1,0 +1,118 @@
+Schoppen    B 10  9  6 
+Harten      7  5 
+Ruiten      K  V  B  8  4 
+Klaveren    K  V 
+regelmatige verdeling:       False
+aantal punten voor honneurs: 12
+max kleur en lengte:         ('Ruiten', 5)
+
+
+ ---------------------- 
+
+
+Schoppen   
+Harten      7  2 
+Ruiten      V 
+Klaveren    7  6 
+regelmatige verdeling:       False
+aantal punten voor honneurs: 2
+max kleur en lengte:         ('Harten', 2)
+
+Schoppen   
+Harten      K  9 
+Ruiten     
+Klaveren    V  B  4 
+regelmatige verdeling:       False
+aantal punten voor honneurs: 6
+max kleur en lengte:         ('Klaveren', 3)
+
+Schoppen   
+Harten      V 
+Ruiten      K  8 
+Klaveren    8  3 
+regelmatige verdeling:       False
+aantal punten voor honneurs: 5
+max kleur en lengte:         ('Klaveren', 2)
+
+Schoppen   10  4 
+Harten     10 
+Ruiten      A 10 
+Klaveren   
+regelmatige verdeling:       False
+aantal punten voor honneurs: 4
+max kleur en lengte:         ('Schoppen', 2)
+
+start zoeken
+         131084429 function calls (112392657 primitive calls) in 37.053 seconds
+
+   Ordered by: cumulative time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+  34110/1    0.471    0.000   37.053   37.053 /home/ed/dirPython/Bridge/tmp/Search.py:13(alphaBetaSearch)
+16728401/131285   15.481    0.000   36.262    0.000 /usr/local/Anaconda3/lib/python3.7/copy.py:132(deepcopy)
+  1076670    0.872    0.000   31.728    0.000 /usr/local/Anaconda3/lib/python3.7/copy.py:210(_deepcopy_list)
+2131886/828260    3.587    0.000   27.397    0.000 /usr/local/Anaconda3/lib/python3.7/copy.py:236(_deepcopy_dict)
+1812791/1055870    3.887    0.000   26.089    0.000 /usr/local/Anaconda3/lib/python3.7/copy.py:268(_reconstruct)
+ 35269593    3.073    0.000    3.073    0.000 {method 'get' of 'dict' objects}
+  5021347    1.930    0.000    2.705    0.000 /usr/local/Anaconda3/lib/python3.7/copy.py:252(_keep_alive)
+  3625582    0.668    0.000    2.564    0.000 /usr/local/Anaconda3/lib/python3.7/copy.py:273(<genexpr>)
+ 26890480    1.801    0.000    1.801    0.000 {built-in method builtins.id}
+  1812791    0.902    0.000    0.902    0.000 {method '__reduce_ex__' of 'object' objects}
+ 11707054    0.769    0.000    0.769    0.000 /usr/local/Anaconda3/lib/python3.7/copy.py:190(_deepcopy_atomic)
+  1812791    0.552    0.000    0.755    0.000 /usr/local/Anaconda3/lib/python3.7/copyreg.py:87(__newobj__)
+  6022601    0.535    0.000    0.535    0.000 {method 'append' of 'list' objects}
+  3625582    0.498    0.000    0.498    0.000 {built-in method builtins.getattr}
+  3625582    0.460    0.000    0.460    0.000 {built-in method builtins.isinstance}
+  1812791    0.429    0.000    0.429    0.000 {method 'update' of 'dict' objects}
+    29710    0.054    0.000    0.235    0.000 /home/ed/dirPython/Bridge/tmp/Search.py:122(speelbareKaarten)
+  2131886    0.229    0.000    0.229    0.000 {method 'items' of 'dict' objects}
+  1812791    0.204    0.000    0.204    0.000 {built-in method __new__ of type object at 0x560301a12240}
+  1812793    0.199    0.000    0.199    0.000 {built-in method builtins.hasattr}
+  1812791    0.195    0.000    0.195    0.000 {built-in method builtins.issubclass}
+    10282    0.040    0.000    0.121    0.000 /home/ed/dirPython/Bridge/tmp/Search.py:135(toenameSlagen)
+    30846    0.020    0.000    0.059    0.000 /home/ed/dirPython/Bridge/tmp/Kaart.py:20(hogerDan)
+    34109    0.026    0.000    0.050    0.000 /home/ed/dirPython/Bridge/tmp/Search.py:155(removeSpelersKaart)
+    54673    0.043    0.000    0.043    0.000 /home/ed/dirPython/Bridge/tmp/Search.py:163(volgendeSpeler)
+    17870    0.032    0.000    0.036    0.000 /home/ed/dirPython/Bridge/tmp/Kaart.py:32(getKey)
+    63819    0.033    0.000    0.033    0.000 /home/ed/dirPython/Bridge/tmp/Search.py:171(maximaliseer)
+    34109    0.012    0.000    0.018    0.000 {method 'remove' of 'list' objects}
+    34109    0.015    0.000    0.015    0.000 /home/ed/dirPython/Bridge/tmp/GespeeldeKaart.py:4(__init__)
+    71974    0.010    0.000    0.010    0.000 /home/ed/dirPython/Bridge/tmp/Kaart.py:28(getKleur)
+    22929    0.009    0.000    0.009    0.000 /home/ed/dirPython/Bridge/tmp/Constantes.py:22(getAlleKleuren)
+    13322    0.005    0.000    0.005    0.000 /home/ed/dirPython/Bridge/tmp/Kaart.py:55(__eq__)
+    34109    0.005    0.000    0.005    0.000 /home/ed/dirPython/Bridge/tmp/Search.py:159(rondeCompleet)
+    34380    0.005    0.000    0.005    0.000 {built-in method builtins.len}
+    17870    0.002    0.000    0.002    0.000 {method 'isdigit' of 'str' objects}
+        2    0.000    0.000    0.000    0.000 /usr/local/Anaconda3/lib/python3.7/copyreg.py:96(_slotnames)
+        2    0.000    0.000    0.000    0.000 {method 'get' of 'mappingproxy' objects}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+
+Best gespeelde kaarten: 
+besteWaarde = -5
+Oost  speelt Harten K
+Zuid  speelt Harten V
+West  speelt Harten 10
+Noord speelt Harten 7
+
+Oost  speelt Harten 9
+Zuid  speelt Ruiten K
+West  speelt Schoppen 10
+Noord speelt Harten 2
+
+Oost  speelt Klaveren V
+Zuid  speelt Klaveren 8
+West  speelt Schoppen 4
+Noord speelt Klaveren 7
+
+Oost  speelt Klaveren B
+Zuid  speelt Klaveren 3
+West  speelt Ruiten A
+Noord speelt Klaveren 6
+
+Oost  speelt Klaveren 4
+Zuid  speelt Ruiten 8
+West  speelt Ruiten 10
+Noord speelt Ruiten V
+

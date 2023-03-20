@@ -1,0 +1,2 @@
+condition shape(north, any 4333 + any 4423) and hcp(north)>=19
+           action printall
